@@ -20,3 +20,5 @@ print(lista_compra)
 print(media)
 
 print(mediana)
+
+#Kenneth Arias Solís
